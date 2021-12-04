@@ -1,0 +1,12 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-style: oblique;
+  background-color: burlywood;
+}
+img {
+    float: right;
+  }
+  .container {
+    font-style: italic;
+  }
